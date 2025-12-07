@@ -1,0 +1,11 @@
+{
+  "name": "Minimal Stopwatch",
+  "description": "Homemade stopwatch extension with React+Vite",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": ["storage"]
+}
