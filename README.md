@@ -1,8 +1,9 @@
 # Installation
-1. Download the source code from the `Releases`
-2. Open `chrome://extensions`
-3. Select `Load unpacked`
-4. Select the downloaded source code
+1. Download the ZIP file from the latest release.
+2. Unzip it anywhere on your PC.
+3. Open Chrome and go to `chrome://extensions/`.
+4. Enable Developer Mode (toggle in the top right corner).
+5. Click `Load unpacked` and select the unzipped folder.
 
 # Storage
 
