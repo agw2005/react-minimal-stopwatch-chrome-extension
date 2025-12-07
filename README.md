@@ -1,6 +1,12 @@
+# Installation
+1. Download the source code from the `Releases`
+2. Open `chrome://extensions`
+3. Select `Load unpacked`
+4. Select the downloaded source code
+
 # Storage
 
-Type : Chrome local storage
+Type : Chrome local storage API
 
 Stores :
 
